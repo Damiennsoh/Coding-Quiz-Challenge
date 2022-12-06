@@ -12,7 +12,7 @@ Refer to the MIT license file in the repository
 
 ## Links
 * https://github.com/Damiennsoh
-* comming soon
+* https://damiennsoh.github.io/Coding-Quiz-Challenge/
 
 ## Screenshot
 ![image](link)
