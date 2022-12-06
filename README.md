@@ -14,5 +14,8 @@ Refer to the MIT license file in the repository
 * https://github.com/Damiennsoh
 * https://damiennsoh.github.io/Coding-Quiz-Challenge/
 
+## Acceptance Criteria
+![image]()
+
 ## Screenshot
 ![image](link)
