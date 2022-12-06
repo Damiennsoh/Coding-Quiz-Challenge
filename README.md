@@ -11,7 +11,7 @@ N/A
 Refer to the MIT license file in the repository
 
 ## Links
-* Comming soon
+* https://github.com/Damiennsoh
 * comming soon
 
 ## Screenshot
