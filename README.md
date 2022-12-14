@@ -23,7 +23,7 @@ Refer to the MIT license file in the repository
 ![image](https://github.com/Damiennsoh/Coding-Quiz-Challenge/blob/main/assets/img/codequiz1.jpg)
 
 ## Questions
-![image]()
+![image](https://github.com/Damiennsoh/Coding-Quiz-Challenge/blob/main/assets/img/codequiz2.jpg)
 
 ## Results Page
 ![image]()
