@@ -10,12 +10,20 @@ N/A
 ## License
 Refer to the MIT license file in the repository
 
-## Links
+## Github Link
 * https://github.com/Damiennsoh
+
+## Test Application
 * https://damiennsoh.github.io/Coding-Quiz-Challenge/
 
 ## Acceptance Criteria
 ![image](https://github.com/Damiennsoh/Coding-Quiz-Challenge/blob/main/assets/code-quiz_challenge.jpg)
 
-## Screenshot
-![image](link)
+## Starting page
+![image](https://github.com/Damiennsoh/Coding-Quiz-Challenge/blob/main/assets/img/codequiz1.jpg)
+
+## Questions
+![image]()
+
+## Results Page
+![image]()
