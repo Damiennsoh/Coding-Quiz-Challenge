@@ -17,7 +17,7 @@ Refer to the MIT license file in the repository
 * https://damiennsoh.github.io/Coding-Quiz-Challenge/
 
 ## Acceptance Criteria
-![image](https://github.com/Damiennsoh/Coding-Quiz-Challenge/blob/main/assets/code-quiz_challenge.jpg)
+![image](https://github.com/Damiennsoh/Coding-Quiz-Challenge/blob/main/assets/img/code-quiz_challenge.jpg)
 
 ## Starting page
 ![image](https://github.com/Damiennsoh/Coding-Quiz-Challenge/blob/main/assets/img/codequiz1.jpg)
